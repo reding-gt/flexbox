@@ -3,3 +3,7 @@
     margin: auto;
     width: 90%;
 }
+
+.main-example {
+    display: flex;
+}
